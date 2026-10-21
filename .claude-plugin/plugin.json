@@ -1,0 +1,9 @@
+{
+  "name": "interview",
+  "version": "0.1.0",
+  "description": "Mock front-end interview for interns: pick topics, answer questions from the Excel question bank, get an AI-scored report.",
+  "author": {
+    "name": "David Mamikonyan",
+    "email": "david_mamikonyan@epam.com"
+  }
+}

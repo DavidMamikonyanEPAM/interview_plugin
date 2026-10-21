@@ -1,0 +1,15 @@
+{
+  "name": "interview-tools",
+  "owner": {
+    "name": "David Mamikonyan",
+    "email": "david_mamikonyan@epam.com"
+  },
+  "description": "Interview practice tools for interns.",
+  "plugins": [
+    {
+      "name": "interview",
+      "source": "./",
+      "description": "Mock front-end interview for interns with an AI-scored report."
+    }
+  ]
+}

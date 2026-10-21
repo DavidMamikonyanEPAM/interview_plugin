@@ -1,0 +1,5 @@
+.DS_Store
+~$*.xlsx
+interview-report-*.md
+__pycache__/
+.superpowers/
