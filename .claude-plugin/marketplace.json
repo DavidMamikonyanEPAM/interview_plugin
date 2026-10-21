@@ -9,7 +9,7 @@
     {
       "name": "interview",
       "source": "./",
-      "description": "Mock front-end interview for interns with an AI-scored report."
+      "description": "Mock interview for interns with an AI-scored report."
     }
   ]
 }

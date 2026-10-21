@@ -1,5 +1,5 @@
 ---
-description: Mock front-end interview. Pick topics, answer questions, get a scored report with the best answers.
+description: Mock interview. Pick topics, answer questions, get a scored report with the best answers.
 argument-hint: "[optional: topics, e.g. React, CSS]"
 allowed-tools: Bash(python3 -I ${CLAUDE_PLUGIN_ROOT}/scripts/question_bank.py:*), Write
 ---
